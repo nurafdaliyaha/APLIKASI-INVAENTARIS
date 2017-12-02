@@ -95,3 +95,4 @@ class C_Barang extends CI_Controller {
     }
 
 }
+
